@@ -1,0 +1,22 @@
+{
+    "name"        : "dax-js-rot13",
+    "description" : "daXXog&#39;s javascript rot13",
+    "homepage"    : "https://github.com/daxxog/dax-js-rot13",
+    "main"        : "dax-js-rot13.js",
+    "version"     : "0.0.1",
+    "engines": { "node" : ">=0.7.0" },
+    "maintainers": [{
+        "name"  : "David Volm",
+        "email" : "david@volminator.com",
+        "web"   : "http://daxxog.com/"
+    }],
+    "repository": {
+        "type" : "git",
+        "url"  : "https://github.com/daxxog/dax-js-rot13.git"
+    },
+    "dependencies": {
+    },
+    "bin": {
+        "dax-js-rot13" : "./bin/dax-js-rot13"
+    }
+}
